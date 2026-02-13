@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Full Stack Software Engineer**
+- 🔭 Currently working as a **Junior Software Engineer**
 - 🏗 Building and scaling production SaaS platforms
 - ⚙️ Experienced in end-to-end development (Frontend → Backend → Deployment)
 - 🌱 Exploring AI Engineering & advanced system architecture
